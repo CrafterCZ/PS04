@@ -1,0 +1,6 @@
+C:\Users\daniel.cerny\Desktop\PS04\PS04.1\PS04.1\bin\Debug\PS04.1.exe.config
+C:\Users\daniel.cerny\Desktop\PS04\PS04.1\PS04.1\bin\Debug\PS04.1.exe
+C:\Users\daniel.cerny\Desktop\PS04\PS04.1\PS04.1\bin\Debug\PS04.1.pdb
+C:\Users\daniel.cerny\Desktop\PS04\PS04.1\PS04.1\obj\Debug\PS04.1.csprojResolveAssemblyReference.cache
+C:\Users\daniel.cerny\Desktop\PS04\PS04.1\PS04.1\obj\Debug\PS04.1.exe
+C:\Users\daniel.cerny\Desktop\PS04\PS04.1\PS04.1\obj\Debug\PS04.1.pdb
